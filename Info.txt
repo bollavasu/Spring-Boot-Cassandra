@@ -1,0 +1,7 @@
+
+https://grokonez.com/spring-framework/spring-data/start-spring-data-cassandra-springboot
+
+https://academy.datastax.com/planet-cassandra//cassandra      (cassandra download page)
+1)start cassandra
+  go to C:\Program Files\DataStax-DDC\apache-cassandra\bin
+  cassandra
